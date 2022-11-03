@@ -1,7 +1,7 @@
 {
-    "name": "adcog-cpi/eb-translationbundle",
+    "name": "adcog-cpi/translation-bundle",
     "description": "EBTranslationBundle",
-    "homepage": "https://github.com/adcog-cpi/TranslationBundle.git",
+    "homepage": "https://github.com/adcog-cpi/translation-bundle.git",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
